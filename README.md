@@ -5,6 +5,7 @@ I currently use them on Windows 10.
 
 ## Content
 ### Apps
+Hint: Some of the functions used are located in [misc/#global_functions.ahk](misc/%23global_functions.ahk)
 - [apps/adobe_acrobat.ahk](apps/adobe_acrobat.ahk) >> Adobe Acrobat
 - [apps/browser.ahk](apps/browser.ahk) >> Browser (Chrome / Chromium, Firefox, Internet Explorer)
 - [apps/ms_excel.ahk](apps/ms_excel.ahk) >> Microsoft Excel
@@ -15,6 +16,7 @@ I currently use them on Windows 10.
 - [apps/virtuawin.ahk](apps/virtuawin.ahk) >> Virtuawin
 
 ### Window Management
+Hint: Some of the functions used are located in [misc/#global_functions.ahk](misc/%23global_functions.ahk)
 - [window_management/alternative_tab.ahk](window_management/alternative_tab.ahk) >> Alternative Tab for switching applications
 - [window_management/extended_scrolling.ahk](window_management/extended_scrolling.ahk) >> Extended scrolling (mostly horizontal by Shift + Wheel in Windows 10)
 - [window_management/kde_style_window_dragging.ahk](window_management/kde_style_window_dragging.ahk) >> KDE-style dragging of windows
