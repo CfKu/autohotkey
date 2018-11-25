@@ -25,7 +25,7 @@ Hint: Some of the functions used are located in [misc/#global_functions.ahk](mis
 ### Misc
 - [misc/#global_functions.ahk](misc/%23global_functions.ahk) >> Several useful functions
 - [misc/#global_hotkeys.ahk](misc/%23global_hotkeys.ahk) >> Several useful (global) hotkeys, like inserting current date and time
-- [misc/hotstrings.ahk](misc/hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use the to insert salutations or emoji.
+- [misc/hotstrings.ahk](misc/hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use them to insert salutations or emoji.
 - [misc/media_control.ahk](misc/media_control.ahk) >> Media control by mouse
 - [misc/register_user_fonts.ahk](misc/register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
 
