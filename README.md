@@ -1,5 +1,5 @@
 # autohotkey
-My personal collection of mostly self-made Autohotkey (ahk) scripts. So don't hesitate to use some of the scripts or hotkeys. This repository is not intended for direct use. It is intended as a reference repository or repository to get some useful information for extending your hotkeys. I have added comments to describe each hotkey on-line.
+My personal collection of mostly self-made Autohotkey (ahk) scripts. So don't hesitate to use some of the scripts or hotkeys. This repository is not intended for direct use. It is intended as a reference repository or repository to get some useful information for extending your hotkeys. So feel free to cherry pick. I have added comments to describe each hotkey on-line.
 
 I currently use them on Windows 10.
 
