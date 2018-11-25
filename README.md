@@ -21,11 +21,11 @@ I currently use them on Windows 10.
 - [window_management/smart_window_arrangement.ahk](window_management/smart_window_arrangement.ahk) >> Smart window arrangement (almost like Spectacle on macOS)
 
 ### Misc
-- [\#global_functions.ahk](#global_functions.ahk) >> Several useful functions
-- [\#global_hotkeys.ahk](#global_hotkeys.ahk) >> Several useful (global) hotkeys, like inserting current date and time
-- [hotstrings.ahk](hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use the to insert salutations or emoji.
-- [media_control.ahk](media_control.ahk) >> Media control by mouse
-- [register_user_fonts.ahk](register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
+- [misc/%23global_functions.ahk](misc/#global_functions.ahk) >> Several useful functions
+- [misc/%23global_hotkeys.ahk](misc/#global_hotkeys.ahk) >> Several useful (global) hotkeys, like inserting current date and time
+- [hotstrings.ahk](misc/hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use the to insert salutations or emoji.
+- [media_control.ahk](misc/media_control.ahk) >> Media control by mouse
+- [register_user_fonts.ahk](misc/register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
 
 ## License
 This project is licensed under the Beerware License - see the [LICENSE](LICENSE) file for details.
