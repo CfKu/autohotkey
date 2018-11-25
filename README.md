@@ -23,9 +23,9 @@ I currently use them on Windows 10.
 ### Misc
 - [misc/#global_functions.ahk](misc/%23global_functions.ahk) >> Several useful functions
 - [misc/#global_hotkeys.ahk](misc/%23global_hotkeys.ahk) >> Several useful (global) hotkeys, like inserting current date and time
-- [hotstrings.ahk](misc/hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use the to insert salutations or emoji.
-- [media_control.ahk](misc/media_control.ahk) >> Media control by mouse
-- [register_user_fonts.ahk](misc/register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
+- [misc/hotstrings.ahk](misc/hotstrings.ahk) >> Useful hotstrings (at least for me 😏). I use the to insert salutations or emoji.
+- [misc/media_control.ahk](misc/media_control.ahk) >> Media control by mouse
+- [misc/register_user_fonts.ahk](misc/register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
 
 ## License
 This project is licensed under the Beerware License - see the [LICENSE](LICENSE) file for details.
