@@ -30,4 +30,4 @@ Hint: Some of the functions used are located in [misc/#global_functions.ahk](mis
 - [misc/register_user_fonts.ahk](misc/register_user_fonts.ahk) >> Register user fonts as user 😈, useful if you have no admin rights on your PC
 
 ## License
-This project is licensed under the Beerware License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license - see the [LICENSE](LICENSE) file for details.
